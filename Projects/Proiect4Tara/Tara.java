@@ -1,4 +1,4 @@
-package ProiectNr4;
+package Proiect4Tara;
 
 public class Tara {
 
