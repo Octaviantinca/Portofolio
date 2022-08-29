@@ -1,4 +1,4 @@
-package ProiectNr3;
+package Proiect3MeniuPrajitura;
 import java.util.*;
 
 public class Ex3 {

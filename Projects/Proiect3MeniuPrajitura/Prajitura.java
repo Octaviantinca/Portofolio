@@ -1,4 +1,4 @@
-package ProiectNr3;
+package Proiect3MeniuPrajitura;
 
 public class Prajitura<T> {
     T tip;
