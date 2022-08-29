@@ -1,4 +1,4 @@
-package ProiectNr1TariOrase;
+package Proiect1TariOrase;
 import java.util.*;
 
 public class Ex1 {
