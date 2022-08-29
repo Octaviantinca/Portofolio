@@ -1,4 +1,4 @@
-package ProiectNr7;
+package Proiect7IntrerupatorOnOff;
 
 public class Ex7 {
     public static void main(String[] args){

@@ -1,4 +1,4 @@
-package ProiectNr7;
+package Proiect7IntrerupatorOnOff;
 
 public class AlreadyOffException extends Exception{
 
