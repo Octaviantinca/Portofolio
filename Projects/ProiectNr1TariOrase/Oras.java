@@ -1,4 +1,4 @@
-package ProiectNr1;
+package ProiectNr1TariOrase;
 
 public class Oras {
     String nume;
