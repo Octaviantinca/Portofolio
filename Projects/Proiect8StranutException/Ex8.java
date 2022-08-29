@@ -1,4 +1,4 @@
-package ProiectNr8;
+package Proiect8StranutException;
 
 public class Ex8 {
     public static void main(String[] args){
