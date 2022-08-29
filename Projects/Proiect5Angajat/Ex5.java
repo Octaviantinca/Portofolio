@@ -1,4 +1,4 @@
-package ProiectNr5;
+package Proiect5Angajat;
 import java.util.*;
 
 public class Ex5 {

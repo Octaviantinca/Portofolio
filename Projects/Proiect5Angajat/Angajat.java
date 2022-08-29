@@ -1,4 +1,4 @@
-package ProiectNr5;
+package Proiect5Angajat;
 
 public class Angajat {
     String nume;
