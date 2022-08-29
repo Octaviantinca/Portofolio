@@ -1,4 +1,4 @@
-package ProiectNr2;
+package Proiect2Banca;
 import java.util.*;
 
 public class Client {
