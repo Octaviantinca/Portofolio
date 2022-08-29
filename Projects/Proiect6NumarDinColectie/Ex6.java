@@ -1,4 +1,4 @@
-package ProiectNr6;
+package Proiect6NumarDinColectie;
 import java.util.*;
 
 public class Ex6 {
